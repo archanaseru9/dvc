@@ -1,1 +1,0 @@
-print("THIS is python file")
